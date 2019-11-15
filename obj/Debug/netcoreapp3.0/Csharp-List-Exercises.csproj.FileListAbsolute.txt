@@ -1,0 +1,11 @@
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\obj\Debug\netcoreapp3.0\Csharp-List-Exercises.csprojAssemblyReference.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\obj\Debug\netcoreapp3.0\Csharp-List-Exercises.AssemblyInfoInputs.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\obj\Debug\netcoreapp3.0\Csharp-List-Exercises.AssemblyInfo.cs
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.exe
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.deps.json
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.runtimeconfig.dev.json
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.dll
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\bin\Debug\netcoreapp3.0\Csharp-List-Exercises.pdb
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\obj\Debug\netcoreapp3.0\Csharp-List-Exercises.dll
+C:\Users\Oakley\Desktop\workspace\Csharp-List-Exercises\obj\Debug\netcoreapp3.0\Csharp-List-Exercises.pdb

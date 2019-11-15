@@ -10,11 +10,12 @@ namespace Csharp_List_Exercises
             List<string> planetList = new List<string>() { "Mercury", "Mars" };
             planetList.Add("Saturn");
             planetList.Add("Jupiter");
+
+            List<string> lastTwo = new List<string>() { "Pluto", "Neptune" };
+
+            lastTwo.AddRange(planetList);
+
+            Console.WriteLine("\nAddRange(planetList)");
         }
-        List<string> lastTwo = new List<string>() { "Pluto", "Neptune" };
-
-        lastTwo.AddRange(planetList);
-
-        Console.WriteLine("\nAddRange(planetList)");
     }
 }
