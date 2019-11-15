@@ -7,7 +7,7 @@ namespace Csharp_List_Exercises
     {
         static void Main(string[] args)
         {
-            List<string> planetList = new List<string>() { "Mercury", "Mars" };
+            List<string> planetList = new List<string>() { "Mercury", "Mars", "Venus" };
             planetList.Add("Saturn");
             planetList.Add("Jupiter");
 
@@ -19,6 +19,9 @@ namespace Csharp_List_Exercises
 
             planetList.Insert(2, "Earth");
             planetList.Add("Pluto");
+
+            List<string> rockyPlanetsList = planetList.GetRange(0, 4);
+            planetList.Remove("Pluto");
 
         }
     }
