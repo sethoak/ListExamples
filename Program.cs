@@ -16,6 +16,9 @@ namespace Csharp_List_Exercises
             lastTwo.AddRange(planetList);
 
             Console.WriteLine("\nAddRange(planetList)");
+
+            planetList.Insert(4, "Earth");
+
         }
     }
 }
